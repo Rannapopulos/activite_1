@@ -194,7 +194,7 @@ ul
 
 .photo
 {
-	border: 2px white ridge; 
+	border: 3px white ridge; 
 	box-shadow: 3px 5px 10px white;	
 }
 
@@ -202,6 +202,5 @@ body
 {
 	background: url("pine_drop.jpg") fixed no-repeat center;
 	background-size: cover;
-	
-	
+
 }
